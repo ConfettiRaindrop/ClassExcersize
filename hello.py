@@ -1,6 +1,6 @@
 
-print('hello world')
+print('hello raccoons!')
 
-def bad (raccoon):
-    i = raccoon * raccoon
-    return i
+def evil (raccoon):
+    k = raccoon - 1
+    return k
