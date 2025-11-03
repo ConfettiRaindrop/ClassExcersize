@@ -1,6 +1,6 @@
 
-print('hello raccoons!')
+print('hello world ლ(╹◡╹ლ)')
 
-def evil (raccoon):
-    k = raccoon - 1
-    return k
+def bad_apple_evil (raccoon):
+    coon_squared = raccoon * raccoon
+    return coon_squared
